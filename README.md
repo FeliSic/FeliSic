@@ -1,16 +1,28 @@
-## Hi there 👋
 
-<!--
-**FeliSic/FeliSic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hi, i'm Felipe! 
+Estudiante en el final de la Carrera de Software Developer en APX.SCHOOL desde Argentina.
 
-Here are some ideas to get you started:
+## 🛠 Skills 
+`JavaScript,JavaScript XML,TypeScript,TypeScript XML,CSS,React,Next Js/Ts`
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* Nivel de Ingles `B1(Intermedio)`
+
+
+
+## Linkedin[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=plastic&logo=linkedin)](https://www.linkedin.com/in/felipe-sicca)
+
+## Profile[![Github ](https://img.shields.io/badge/Github-211F1F?style=plastic&logo=github)](https://github.com/FeliSic)
+						
+
+## Repositories[![Github ](https://img.shields.io/badge/Github-211F1F?style=plastic&logo=github)](https://github.com/FeliSic?tab=repositories)
+						
+						
+						
+## Contact[![Gmail](https://img.shields.io/badge/Gmail-FFFFFF?style=plastic&logo=gmail)](mailto:siccafelipe.dev@gmail.com)
+						
+						
+### Github Stats
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=FeliSic&theme=dark&hide_border=true)](https://git.io/streak-stats)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FeliSic&theme=tokyonight)
