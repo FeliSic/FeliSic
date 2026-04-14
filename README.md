@@ -1,9 +1,9 @@
 
 ### Hi, i'm Felipe! 
-Estudiante en el final de la Carrera de Software Developer en APX.SCHOOL desde Argentina.
+Recibido en la Carrera de Software Developer en APX.SCHOOL desde Argentina.
 
 ## 🛠 Skills 
-`JavaScript,JavaScript XML,TypeScript,TypeScript XML,CSS,React,Next Js/Ts`
+`JavaScript,JavaScript XML,TypeScript,TypeScript XML,CSS tanto con TAilwindCSS como  con Styled Components,React,Next Js/Ts`
 
 * Nivel de Ingles `B1(Intermedio)`
 
