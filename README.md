@@ -3,8 +3,6 @@
 Recibido en la Carrera de Software Developer en APX.SCHOOL desde Argentina.
 
 ## 🛠 Skills 
-`
-
 		Frontend:
             Frameworks: React / Next.js (Experiencia en App & Pages Router)
             Lenguajes: JavaScript / TypeScript (incluyendo JSX / TSX)
