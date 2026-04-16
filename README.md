@@ -3,7 +3,36 @@
 Recibido en la Carrera de Software Developer en APX.SCHOOL desde Argentina.
 
 ## 🛠 Skills 
-`JavaScript,JavaScript XML,TypeScript,TypeScript XML,CSS tanto con TAilwindCSS como  con Styled Components,React,Next Js/Ts`
+`      { label: "Frontend:", isHeader: true },
+                {
+                  label:
+                    "Frameworks: React / Next.js (Experiencia en App & Pages Router)",
+                },
+                {
+                  label:
+                    "Lenguajes: JavaScript / TypeScript (incluyendo JSX / TSX)",
+                },
+                { label: "Estilos: CSS (Tailwind CSS / Styled Components)" },
+                { label: "Consumo de datos: Fetch API / Axios" },
+                { label: "Backend & Bases de Datos:", isHeader: true },
+                {
+                  label:
+                    "APIs: Desarrollo de API RESTful (Métodos HTTP, Status Codes, JSON).",
+                },
+                { label: "ORM: Sequelize (Manejo de modelos y relaciones)." },
+                {
+                  label:
+                    "Bases de Datos: SQL & NoSQL (Consultas nativas y modelado de datos).",
+                },
+                { label: "Herramientas & Seguridad:", isHeader: true },
+                {
+                  label:
+                    "Seguridad: Autenticación con JWT (JSON Web Tokens) y NextAuth.",
+                },
+                { label: "Control de Versiones: Git / GitHub." },
+                { label: "Metodologías & Arquitectura:", isHeader: true },
+                { label: "Metodologías Ágiles: Scrum" },
+                { label: "Arquitectura MVC (Model-View-Controller)" },`
 
 * Nivel de Ingles `B1(Intermedio)`
 
