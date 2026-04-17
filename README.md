@@ -26,7 +26,7 @@ Recibido en la Carrera de Software Developer en APX.SCHOOL desde Argentina.
 
 PRESENTACION
 
-IR  A /HOME PARA VER TODAS LAS FUNCIONALIDADES
+IR  A /HOME PARA VER TODAS LAS FUNCIONALIDADES EN CADA PROYECTO MOSTRADO
 
 https://landing-page-presentation-ten.vercel.app
 
