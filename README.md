@@ -24,6 +24,12 @@ Recibido en la Carrera de Software Developer en APX.SCHOOL desde Argentina.
 
 * Nivel de Ingles `B1(Intermedio)`
 
+PRESENTACION
+
+IR  A /HOME PARA VER TODAS LAS FUNCIONALIDADES
+
+https://landing-page-presentation-one.vercel.app
+
 
 
 ## Linkedin[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=plastic&logo=linkedin)](https://www.linkedin.com/in/felipe-sicca)
