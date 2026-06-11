@@ -32,7 +32,7 @@ PRESENTACION
 
 Cada Proyecto cuenta con su version Demo para ser probada de forma rapida y sencilla
 
-https://landing-page-presentation-ha18.vercel.app
+https://landing-page-presentation-azure.vercel.app
 
 
 
