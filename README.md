@@ -1,6 +1,6 @@
 
 ### Hi, i'm Felipe! 
-Recibido en la Carrera de Software Developer en APX.SCHOOL y Data Engineer(en proceso) desde Argentina.
+Recibido en la Carrera de Software Developer en APX.SCHOOL y Data Engineer (en proceso) desde Argentina.
 
 ## 🛠 Skills 
 	 Frontend:
